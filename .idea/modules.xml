@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SSM-KILL.iml" filepath="$PROJECT_DIR$/SSM-KILL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM-SECONDS-KILL-API/SSM-SECONDS-KILL-API.iml" filepath="$PROJECT_DIR$/SSM-SECONDS-KILL-API/SSM-SECONDS-KILL-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM-SECONDS-KILL-SERVICE/SSM-SECONDS-KILL-SERVICE.iml" filepath="$PROJECT_DIR$/SSM-SECONDS-KILL-SERVICE/SSM-SECONDS-KILL-SERVICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM-SECONDS-KILL-WEB/SSM-SECONDS-KILL-WEB.iml" filepath="$PROJECT_DIR$/SSM-SECONDS-KILL-WEB/SSM-SECONDS-KILL-WEB.iml" />
+    </modules>
+  </component>
+</project>

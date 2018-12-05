@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SSM-SECONDS-KILL-API:war">
+    <output-path>$PROJECT_DIR$/SSM-SECONDS-KILL-API/target</output-path>
+    <root id="archive" name="SSM-SECONDS-KILL-API-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SSM-SECONDS-KILL-API:war exploded" />
+    </root>
+  </artifact>
+</component>
